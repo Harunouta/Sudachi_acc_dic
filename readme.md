@@ -1,6 +1,5 @@
 <h1>Sudachi_acc.dic</h1>
-これは<a href= "https://github.com/WorksApplications/Sudachi" >Sudachi</a>にアクセント情報を付与しようと目論んだ辞書です。
-セント単位形からアクセントを予測するものです。<br>
+これは<a href= "https://github.com/WorksApplications/Sudachi" >Sudachi</a>にアクセント情報を付与しようと目論んだ辞書です。<br>
 辞書未完成のため、終止形の出力やA,B.C単位での出力切り替えといったSudachiらしいことができません。<br>
 また、すべてのSudachi辞書にエントリーされている単語には対応していません。現状は対応する単語にのみ「読み」のカラムに情報が追加されています。<br>
 <h1>【配布場所】</h1><br>
