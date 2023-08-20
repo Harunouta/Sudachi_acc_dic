@@ -5,7 +5,7 @@
 <h1>【配布場所】</h1><br>
 容量の関係で<a href= "https://drive.google.com/drive/folders/1TcSJvUk8dtSvzZsWVTtfBQDqQ8rKIyvd?usp=sharing" >こちら</a>で配布しています。<br>
 <h1>【出力例】</h1>
-'''
+```
 $ sudachipy -a
 選挙管理委員会のアルバイトに応募したいと考えているけどどう思う？
 選挙管理委員会	名詞,固有名詞,一般,*,*,*	選挙管理委員会	選挙管理委員会	センキョカンリイインカイ/8.0/C1/*	1	[]
@@ -24,7 +24,7 @@ $ sudachipy -a
 思う	動詞,一般,*,*,五段-ワア行,終止形-一般	思う	思う	オモウ/2/*/*	[]
 ？	補助記号,句点,*,*,*,*	?	?	キゴウ	0	[]
 EOS
-'''
+```
 
 <br>
 <h1>【アクセント核の付与について】</h1>
@@ -40,11 +40,11 @@ Sudachiにしかない単語については、<a href= "https://github.com/PKSHA
 ユーザー辞書に本辞書(Sudachi_acc.dic)のpathを設定してください。<br>
 「読み」のエントリーに入れたので読みを表示(-a)させないと見えません。<br>
 <h1>【出力の読みかた】</h1>
-'''
+```
 吹奏楽部
 吹奏楽部	名詞,普通名詞,一般,*,*,*	吹奏楽部	吹奏楽部	スイソウガクブ/5.0/C1/*	1	[]
 EOS
-'''
+```
 通常の設定のままならば、<br>
 読みの部分に「読み/アクセント型(aType)/アクセント結合型(aConType)/アクセント修飾型(aModType) 」と入っています。詳しい用語の解説は<a href= "https://clrd.ninjal.ac.jp/unidic/UNIDIC_manual.pdf" >unidicのドキュメント</a>へ<br>
 
