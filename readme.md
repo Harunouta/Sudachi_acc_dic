@@ -4,6 +4,7 @@
 また、すべてのSudachi辞書にエントリーされている単語には対応していません。現状は対応する単語にのみ「読み」のカラムに情報が追加されています。<br>
 <h1>【配布場所】</h1><br>
 容量の関係で<a href= "https://drive.google.com/drive/folders/1TcSJvUk8dtSvzZsWVTtfBQDqQ8rKIyvd?usp=sharing" >こちら</a>で配布しています。<br>
+この辞書を用いて動作する<a href= "https://github.com/Harunouta/Hebisan" >GUIアプリケーション</a>を作成しました。<br>
 <h1>【出力例】</h1>
 
 $ sudachipy -a<br>
